@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about DS Algo
-- 📫 How to reach me: LinkedIn 
+- 📫 How to reach me: LinkedIn
+- <img src="https://github-readme-stats.vercel.app/api?username=geekySapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
